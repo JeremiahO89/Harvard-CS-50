@@ -1,4 +1,5 @@
 #include <stdio.h>
+ 
  /*
  types of data storages types:
     bool
@@ -40,5 +41,4 @@ counter ++ 1; //adds one to the value of the variable
 int main ()
 {
     printf("hello world");
-
 }
