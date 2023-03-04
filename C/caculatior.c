@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+#include<CS50.h>
 int main (void)
 {
         int points= get_int("how many points did you loose?");
