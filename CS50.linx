@@ -8,4 +8,8 @@ mkdir - make directory
 mv - move remain
 rm - others
 rmdir -remove directory
-rmdir
+
+
+VSCODE terminal shortcuts
+clear - clears the terminal
+code filename.filetype - creats a file with that name and type
