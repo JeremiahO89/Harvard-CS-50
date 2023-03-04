@@ -1,4 +1,7 @@
-cd - change directory
+cd (destionation) - change directory to destionation
+cd - goes back to parent folder
+cd.. - goes back one directory
+cd../.. - goes back two directorys
 cp - copy
 ls  - list
 mkdir - make directory
