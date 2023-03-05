@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <math.h>
-#include <cs50.h> // this include still does not work
+#include <cs50.h> // this include still does not work you need to import the library someway
  
  /*
  types of data storages types:
@@ -31,8 +31,10 @@ operators:
 % - Remainder
 || - or
 == - Equals
+!= - Does not equal
 %.(some number)f  // (Stops at some number of decimal places)
 /n  - moves print to a new line
+
 */
 
 /*
