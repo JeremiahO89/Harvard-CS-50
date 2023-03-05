@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <math.h>
-#include <cs50.h> // this include still does not work you need to import the library someway
+#include "cs50.h" // this include still does not work you need to import the library someway
  
  /*
  types of data storages types:
@@ -56,5 +56,7 @@ Do while loop  // does the function then cheacks wether or not to continue
 
 int main ()
 {
-    printf("hello world");
+    int my_input = get_int("Please enter a digit");
+    printf("hello world %d\n", my_input);
+
 }
