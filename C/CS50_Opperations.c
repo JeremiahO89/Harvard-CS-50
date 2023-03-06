@@ -49,7 +49,7 @@ counter ++ 1; //adds one to the value of the variable
 /*
 For Loop (int var=0; var <0: var++)
 Do while loop  // does the function then cheacks wether or not to continue
-*/
+Returning a value in the main loop with a number except 0, is a way of prematurly ending the code and presenting and error*/
 
 
 
